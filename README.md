@@ -8,6 +8,6 @@
 <br clear="both" />
 <p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qk2fz7rgwcfgm53jyvy4pphl6m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qk2fz7rgwcfgm53jyvy4pphl6m&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qk2fz7rgwcfgm53jyvy4pphl6m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=24292f&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qk2fz7rgwcfgm53jyvy4pphl6m&redirect=true)
 
 </p>
