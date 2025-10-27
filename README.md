@@ -7,7 +7,7 @@
 
 <br clear="both" />
 
-<h3>Now Playing...</h3>  
+<h2>Now Playing...</h2>  
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qk2fz7rgwcfgm53jyvy4pphl6m&redirect=true">
